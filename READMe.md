@@ -1,3 +1,2 @@
 Gittest
-Hello I am editing this Readme file. 
-Thank you!
+This is my test branch.
